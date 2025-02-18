@@ -1,4 +1,2 @@
----
-title: Welcome to my blog
----
-
+## title: This is my First Blog
+_This text is italic_
